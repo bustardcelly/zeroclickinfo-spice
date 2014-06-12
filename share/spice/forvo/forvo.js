@@ -22,6 +22,7 @@ nrj("soundmanager2/script/soundmanager2-nodebug-jsmin.js", true);
             meta: {
                 sourceUrl: "http://www.forvo.com/search/" + query,
                 sourceName: "Forvo",
+                autoplay: false
             },
             templates : {
                 item_custom: Spice.forvo.forvo
